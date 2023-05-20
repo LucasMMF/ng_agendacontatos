@@ -1,5 +1,5 @@
 /* Mapeamento das APIs */
 export const environment = {
     /* API de contatos */
-    apiContatos: 'http://appcontatos1-001-site1.gtempurl.com/api'
+    apiContatos: 'http://appcontatos2-001-site1.btempurl.com/api'
 };
